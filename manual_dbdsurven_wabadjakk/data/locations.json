@@ -1454,21 +1454,21 @@
         "name": "Victory - Scavenger"
     },
     {
-        "name": "Finish to repair a generator",
+        "name": "Finish repairing a generator",
         "category": [
             "Missions"
         ],
         "requires": []
     },
     {
-        "name": "Do a Great skill check during repair",
+        "name": "Hit a great skill check repairing a generator",
         "category": [
             "Missions"
         ],
         "requires": []
     },
     {
-        "name": "Unhook an other survivor",
+        "name": "Unhook another survivor",
         "category": [
             "Missions"
         ],
@@ -1496,7 +1496,7 @@
         "requires": "|Progressive Key:2|"
     },
     {
-        "name": "Escape through exit gates",
+        "name": "Escape through an exit gate",
         "category": [
             "Missions"
         ],
@@ -1609,14 +1609,14 @@
         "requires": []
     },
     {
-        "name": "Heal an other survivor",
+        "name": "Heal another survivor",
         "category": [
             "Missions"
         ],
         "requires": []
     },
     {
-        "name": "Do a great skill check during healing an other survivor",
+        "name": "Hit a great skill check while healing another survivor",
         "category": [
             "Missions"
         ],
@@ -1630,14 +1630,14 @@
         "requires": "(|Deliverance| OR |Slippery Meat| AND |Up the Ante|)"
     },
     {
-        "name": "The killer miss you",
+        "name": "Make the killer swing and miss you",
         "category": [
             "Missions"
         ],
         "requires": []
     },
     {
-        "name": "Wiggle off the killer",
+        "name": "Wiggle off the killer's shoulder",
         "category": [
             "Missions"
         ],
