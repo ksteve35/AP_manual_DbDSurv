@@ -1,0 +1,2136 @@
+[
+  {
+    "count": 1,
+    "name": "Bond",
+    "category": [
+      "Perk",
+      "Dwight"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Prove Thyself",
+    "category": [
+      "Perk",
+      "Dwight"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Leader",
+    "category": [
+      "Perk",
+      "Dwight"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dwight Fairfield",
+    "category": [
+      "Survivor",
+      "Dwight"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Meg Thomas",
+    "category": [
+      "Survivor",
+      "Meg"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quick & Quiet",
+    "category": [
+      "Perk",
+      "Meg"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sprint Burst",
+    "category": [
+      "Perk",
+      "Meg"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Adrenaline",
+    "category": [
+      "Perk",
+      "Meg"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Claudette Morel",
+    "category": [
+      "Survivor",
+      "Claudette"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Empathy",
+    "category": [
+      "Perk",
+      "Claudette"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Botany Knowledge",
+    "category": [
+      "Perk",
+      "Claudette"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Self Care",
+    "category": [
+      "Perk",
+      "Claudette"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Calm Spirit",
+    "category": [
+      "Perk",
+      "Jake"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Saboteur",
+    "category": [
+      "Perk",
+      "Jake"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jake Park",
+    "category": [
+      "Survivor",
+      "Jake"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Will",
+    "category": [
+      "Perk",
+      "Jake"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nea Karlsson",
+    "category": [
+      "Survivor",
+      "Nea"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Streetwise",
+    "category": [
+      "Perk",
+      "Nea"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Balanced Landing",
+    "category": [
+      "Perk",
+      "Nea"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Urban Evasion",
+    "category": [
+      "Perk",
+      "Nea"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "William Overbeck",
+    "category": [
+      "Survivor",
+      "Bill"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unbreakable",
+    "category": [
+      "Perk",
+      "Bill"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Left Behind",
+    "category": [
+      "Perk",
+      "Bill"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Borrowed Time",
+    "category": [
+      "Perk",
+      "Bill"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "David King",
+    "category": [
+      "Survivor",
+      "David"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "We're Gonna Live Forever",
+    "category": [
+      "Perk",
+      "David"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dead Hard",
+    "category": [
+      "Perk",
+      "David"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "No Mither",
+    "category": [
+      "Perk",
+      "David"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Laurie Strode",
+    "category": [
+      "Survivor",
+      "Laurie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sole Survivor",
+    "category": [
+      "Perk",
+      "Laurie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Object of Obsession",
+    "category": [
+      "Perk",
+      "Laurie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Decisive Strike",
+    "category": [
+      "Perk",
+      "Laurie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ace Visconti",
+    "category": [
+      "Survivor",
+      "Ace"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ace in the Hole",
+    "category": [
+      "Perk",
+      "Ace"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Open Handed",
+    "category": [
+      "Perk",
+      "Ace"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Up the Ante",
+    "category": [
+      "Perk",
+      "Ace"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Feng Min",
+    "category": [
+      "Survivor",
+      "Feng"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alert",
+    "category": [
+      "Perk",
+      "Feng"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Technician",
+    "category": [
+      "Perk",
+      "Feng"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lithe",
+    "category": [
+      "Perk",
+      "Feng"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quentin Smith",
+    "category": [
+      "Survivor",
+      "Quentin"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wake Up !",
+    "category": [
+      "Perk",
+      "Quentin"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vigil",
+    "category": [
+      "Perk",
+      "Quentin"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pharmacy",
+    "category": [
+      "Perk",
+      "Quentin"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Detective Tapp",
+    "category": [
+      "Survivor",
+      "Tapp"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Detective's Hunch",
+    "category": [
+      "Perk",
+      "Tapp"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stake Out",
+    "category": [
+      "Perk",
+      "Tapp"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tenacity",
+    "category": [
+      "Perk",
+      "Tapp"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kate Denson",
+    "category": [
+      "Survivor",
+      "Kate"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Windows of Opportunity",
+    "category": [
+      "Perk",
+      "Kate"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dance with me",
+    "category": [
+      "Perk",
+      "Kate"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boil Over",
+    "category": [
+      "Perk",
+      "Kate"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Adam Francis",
+    "category": [
+      "Survivor",
+      "Adam"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Diversion",
+    "category": [
+      "Perk",
+      "Adam"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Autodidact",
+    "category": [
+      "Perk",
+      "Adam"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Deliverance",
+    "category": [
+      "Perk",
+      "Adam"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jeff Johansen",
+    "category": [
+      "Survivor",
+      "Jeff"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Distortion",
+    "category": [
+      "Perk",
+      "Jeff"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Aftercare",
+    "category": [
+      "Perk",
+      "Jeff"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Breakdown",
+    "category": [
+      "Perk",
+      "Jeff"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jane Romero",
+    "category": [
+      "Survivor",
+      "Jane"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Solidarity",
+    "category": [
+      "Perk",
+      "Jane"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Poised",
+    "category": [
+      "Perk",
+      "Jane"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Head on",
+    "category": [
+      "Perk",
+      "Jane"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ashley J Williams",
+    "category": [
+      "Survivor",
+      "Ash"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Buckle up",
+    "category": [
+      "Perk",
+      "Ash"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mettle of Man",
+    "category": [
+      "Perk",
+      "Ash"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flip-flop",
+    "category": [
+      "Perk",
+      "Ash"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nancy Wheeler",
+    "category": [
+      "Survivor",
+      "Nancy"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Better Together",
+    "category": [
+      "Perk",
+      "Nancy"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fixated",
+    "category": [
+      "Perk",
+      "Nancy"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Inner Strength",
+    "category": [
+      "Perk",
+      "Nancy"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Babysitter",
+    "category": [
+      "Survivor",
+      "Steve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Camaraderie",
+    "category": [
+      "Perk",
+      "Steve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Second Wind",
+    "category": [
+      "Perk",
+      "Steve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Steve Harrington",
+    "category": [
+      "Survivor",
+      "Steve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Break",
+    "category": [
+      "Perk",
+      "Yui"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Any Means Necessary",
+    "category": [
+      "Perk",
+      "Yui"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Breakout",
+    "category": [
+      "Perk",
+      "Yui"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yui Kimura",
+    "category": [
+      "Survivor",
+      "Yui"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Off the Record",
+    "category": [
+      "Perk",
+      "Zarina"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zarina Kassir",
+    "category": [
+      "Survivor",
+      "Zarina"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Red Herring",
+    "category": [
+      "Perk",
+      "Zarina"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "For the People",
+    "category": [
+      "Perk",
+      "Zarina"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cheryl Mason",
+    "category": [
+      "Survivor",
+      "Cheryl"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Soul Guard",
+    "category": [
+      "Perk",
+      "Cheryl"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Repressed Alliance",
+    "category": [
+      "Perk",
+      "Cheryl"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blood Pact",
+    "category": [
+      "Perk",
+      "Cheryl"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Felix Richter",
+    "category": [
+      "Survivor",
+      "Felix"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Visionary",
+    "category": [
+      "Perk",
+      "Felix"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Desperate Measures",
+    "category": [
+      "Perk",
+      "Felix"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Built to Last",
+    "category": [
+      "Perk",
+      "Felix"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Appraisal",
+    "category": [
+      "Perk",
+      "Elodie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Elodie Rakoto",
+    "category": [
+      "Survivor",
+      "Elodie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Deception",
+    "category": [
+      "Perk",
+      "Elodie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Power Struggle",
+    "category": [
+      "Perk",
+      "Elodie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Yun-Jin"
+    ],
+    "name": "Yun-Jin Lee",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Yun-Jin"
+    ],
+    "name": "Fast Track",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Yun-Jin"
+    ],
+    "name": "Smash Hit",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Yun-Jin"
+    ],
+    "name": "Self-preservation",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Jill"
+    ],
+    "name": "Jill Valentine",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Jill"
+    ],
+    "name": "Counterforce",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Jill"
+    ],
+    "name": "Resurgence",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Jill"
+    ],
+    "name": "Blast Mine",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Leon"
+    ],
+    "name": "Leon S Kennedy",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Leon"
+    ],
+    "name": "Bite the Bullet",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Leon"
+    ],
+    "name": "Flashbang",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Leon"
+    ],
+    "name": "Rookie Spirit",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Mikaela"
+    ],
+    "name": "Mikaela Reid",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Mikaela"
+    ],
+    "name": "Clairvoyance",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Mikaela"
+    ],
+    "name": "Boon Circle of Healing",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Mikaela"
+    ],
+    "name": "Boon Shadow Step",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Jonah"
+    ],
+    "name": "Jonah Vasquez",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Jonah"
+    ],
+    "name": "Overcome",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Jonah"
+    ],
+    "name": "Corrective Action",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Jonah"
+    ],
+    "name": "Boon Exponential",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Yoichi"
+    ],
+    "name": "Yoichi Asakawa",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Yoichi"
+    ],
+    "name": "Parental Guidance",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Yoichi"
+    ],
+    "name": "Empathic Connection",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Yoichi"
+    ],
+    "name": "Boon Dark Theory",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Haddie"
+    ],
+    "name": "Haddie Kaur",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Haddie"
+    ],
+    "name": "Inner Focus",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Haddie"
+    ],
+    "name": "Residual Manifest",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Haddie"
+    ],
+    "name": "Overzealous",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Rebecca"
+    ],
+    "name": "Rebecca Chambers",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Rebecca"
+    ],
+    "name": "Better than New",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Rebecca"
+    ],
+    "name": "Reassurance",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Rebecca"
+    ],
+    "name": "Hyperfocus",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Vittorio"
+    ],
+    "name": "Vittorio Toscano",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Vittorio"
+    ],
+    "name": "Potential Energy",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Vittorio"
+    ],
+    "name": "Fogwise",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Vittorio"
+    ],
+    "name": "Quick Gambit",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Thalita"
+    ],
+    "name": "Thalita Lyra",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Thalita"
+    ],
+    "name": "Cut Loose",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Thalita"
+    ],
+    "name": "Friendly Competition",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Thalita"
+    ],
+    "name": "Teamwork Power of Two",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Renato"
+    ],
+    "name": "Renato Lyra",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Renato"
+    ],
+    "name": "Background Player",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Renato"
+    ],
+    "name": "Blood Rush",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Renato"
+    ],
+    "name": "Teamwork Collective Stealth",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Cage"
+    ],
+    "name": "Nicolas Cage",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Cage"
+    ],
+    "name": "Dramaturgy",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Cage"
+    ],
+    "name": "Scene Partner",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Cage"
+    ],
+    "name": "Plot Twist",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Ripley"
+    ],
+    "name": "Ellen Ripley",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Ripley"
+    ],
+    "name": "Light-footed",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Ripley"
+    ],
+    "name": "Lucky Star",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Ripley"
+    ],
+    "name": "Chemical Trap",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Alan"
+    ],
+    "name": "Alan Wake",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Alan"
+    ],
+    "name": "Champion of Light",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Alan"
+    ],
+    "name": "Boon Illumination",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Alan"
+    ],
+    "name": "Deadline",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Trevor"
+    ],
+    "name": "Trevor Belmont",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Trevor"
+    ],
+    "name": "Eyes of Belmont",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Trevor"
+    ],
+    "name": "Exultation",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Trevor"
+    ],
+    "name": "Moment of Glory",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Lara"
+    ],
+    "name": "Lara Croft",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Lara"
+    ],
+    "name": "Finesse",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Lara"
+    ],
+    "name": "Specialist",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Lara"
+    ],
+    "name": "Hardened",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Aestri"
+    ],
+    "name": "Aestri Yazar",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Aestri"
+    ],
+    "name": "Mirrored Illusion",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Aestri"
+    ],
+    "name": "Bardic Inspiration",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Aestri"
+    ],
+    "name": "Still Sight",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Sable"
+    ],
+    "name": "Sable Ward",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Sable"
+    ],
+    "name": "Invocation Weaving Spiders",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Sable"
+    ],
+    "name": "Wicked",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Sable"
+    ],
+    "name": "Strength in Shadows",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Gabriel"
+    ],
+    "name": "Gabriel Soma",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Gabriel"
+    ],
+    "name": "Troubleshooter",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Gabriel"
+    ],
+    "name": "Made for this",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Gabriel"
+    ],
+    "name": "Scavenger",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Survivor",
+      "Ada"
+    ],
+    "name": "Ada Wong",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Ada"
+    ],
+    "name": "Wiretap",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Ada"
+    ],
+    "name": "Reactive Healing",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Perk",
+      "Ada"
+    ],
+    "name": "Low Profile",
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Progressive Med-kit",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "Progressive Toolbox",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Flashlight",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Key",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Map",
+    "category": [
+      "Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Sense",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Deja vu",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hope",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kindred",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lightweight",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "No One Left Behind",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Plunderer's Instinct",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Premonition",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Resilience",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Slippery Meat",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Small Game",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spine Chill",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "This is not Happening",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "We'll Make it",
+    "category": [
+      "Base Perk",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Taurie Cain",
+    "category": [
+      "Survivor",
+      "Taurie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Clean Break",
+    "category": [
+      "Perk",
+      "Taurie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shoulder the Burden",
+    "category": [
+      "Perk",
+      "Taurie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Invocation Treacherous Crows",
+    "category": [
+      "Perk",
+      "Taurie"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive Add-ons",
+    "category": [
+      "Add-ons"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "Progressive Offerings",
+    "category": [
+      "Offerings"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Orela Rose",
+    "category": [
+      "Survivor",
+      "Orela"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Do not Harm",
+    "category": [
+      "Perk",
+      "Orela"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Duty of Care",
+    "category": [
+      "Perk",
+      "Orela"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rapid Response",
+    "category": [
+      "Survivor",
+      "Orela"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Fog Vial",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Apocalyptic Ingenuity",
+    "category": [
+      "Rick",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Come and Get Me !",
+    "category": [
+      "Rick",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Teamwork Toughen Up",
+    "category": [
+      "Rick",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rick Grimes",
+    "category": [
+      "Rick",
+      "Survivor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Michonne Grimes",
+    "category": [
+      "Michonne",
+      "Survivor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Conviction",
+    "category": [
+      "Michonne",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Last Stand",
+    "category": [
+      "Michonne",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Teamwork Throw Down",
+    "category": [
+      "Michonne",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Road Life",
+    "category": [
+      "Vee",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "One-Two-Three-Four!",
+    "category": [
+      "Vee",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ghost Notes",
+    "category": [
+      "Vee",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vee Boonyasak",
+    "category": [
+      "Vee",
+      "Survivor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extrasensory Perception",
+    "category": [
+      "Eleven",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "We See You",
+    "category": [
+      "Eleven",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Teamwork Soft Spoken",
+    "category": [
+      "Eleven",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Eleven",
+    "category": [
+      "Eleven",
+      "Survivor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bada Bada Boom",
+    "category": [
+      "Dustin",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Change of Plan",
+    "category": [
+      "Dustin",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Teamwork Full Circuit",
+    "category": [
+      "Dustin",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dustin Henderson",
+    "category": [
+      "Dustin",
+      "Survivor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "A Place For Us",
+    "category": [
+      "Kwon",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Five Moves Ahead",
+    "category": [
+      "Kwon",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flow State",
+    "category": [
+      "Kwon",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kwon Tae-Young",
+    "category": [
+      "Kwon",
+      "Survivor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shane Wiigwaas",
+    "category": [
+      "Shane",
+      "Survivor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wide Open Throttle",
+    "category": [
+      "Shane",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lend A Hand",
+    "category": [
+      "Shane",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cross-Examination",
+    "category": [
+      "Shane",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Aurora_Stardotter",
+    "category": [
+      "Aurora",
+      "Survivor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boon Steadfast",
+    "category": [
+      "Aurora",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fruits of Your Labor",
+    "category": [
+      "Aurora",
+      "Perk"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Salvation's Cry",
+    "category": [
+      "Aurora",
+      "Perk"
+    ],
+    "progression": true
+  }
+]

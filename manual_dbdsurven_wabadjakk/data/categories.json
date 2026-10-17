@@ -1,0 +1,361 @@
+{
+  "Missions": {
+    "yaml_option": [
+      "Missions"
+    ]
+  },
+  "Hard Perk Requirements For Mission Logic": {
+    "yaml_option": [
+      "Hard_Perk_Requirements_For_Mission_Logic"
+    ]
+  },
+  "Items": {
+    "yaml_option": [
+      "Items"
+    ]
+  },
+  "Add-ons": {
+    "yaml_option": [
+      "Add_ons"
+    ]
+  },
+  "Offerings": {
+    "yaml_option": [
+      "Offerings"
+    ]
+  },
+  "Perk": {
+    "yaml_option": [
+      "Perk"
+    ]
+  },
+  "Base Perk": {
+    "yaml_option": [
+      "Base_Perk"
+    ]
+  },
+  "Dwight": {
+    "yaml_option": [
+      "Dwight_Fairfield"
+    ],
+    "hidden": true
+  },
+  "Meg": {
+    "yaml_option": [
+      "Meg_Thomas"
+    ],
+    "hidden": true
+  },
+  "Claudette": {
+    "yaml_option": [
+      "Claudette_Morel"
+    ],
+    "hidden": true
+  },
+  "Jake": {
+    "yaml_option": [
+      "Jake_Park"
+    ],
+    "hidden": true
+  },
+  "Nea": {
+    "yaml_option": [
+      "Nea_Karlsson"
+    ],
+    "hidden": true
+  },
+  "Bill": {
+    "yaml_option": [
+      "William_Bill_Overbeck"
+    ],
+    "hidden": true
+  },
+  "David": {
+    "yaml_option": [
+      "David_King"
+    ],
+    "hidden": true
+  },
+  "Laurie": {
+    "yaml_option": [
+      "Laurie_Strode"
+    ],
+    "hidden": true
+  },
+  "Ace": {
+    "yaml_option": [
+      "Ace_Visconti"
+    ],
+    "hidden": true
+  },
+  "Feng": {
+    "yaml_option": [
+      "Feng_Min"
+    ],
+    "hidden": true
+  },
+  "Quentin": {
+    "yaml_option": [
+      "Quentin_Smith"
+    ],
+    "hidden": true
+  },
+  "Tapp": {
+    "yaml_option": [
+      "Detective_Tapp"
+    ],
+    "hidden": true
+  },
+  "Kate": {
+    "yaml_option": [
+      "Kate_Denson"
+    ],
+    "hidden": true
+  },
+  "Adam": {
+    "yaml_option": [
+      "Adam_Francis"
+    ],
+    "hidden": true
+  },
+  "Jeff": {
+    "yaml_option": [
+      "Jeff_Johansen"
+    ],
+    "hidden": true
+  },
+  "Jane": {
+    "yaml_option": [
+      "Jane_Romero"
+    ],
+    "hidden": true
+  },
+  "Ash": {
+    "yaml_option": [
+      "Ashley_Williams"
+    ],
+    "hidden": true
+  },
+  "Nancy": {
+    "yaml_option": [
+      "Nancy_Wheeler"
+    ],
+    "hidden": true
+  },
+  "Steve": {
+    "yaml_option": [
+      "Steve_Harrington"
+    ],
+    "hidden": true
+  },
+  "Yui": {
+    "yaml_option": [
+      "Yui_Kimura"
+    ],
+    "hidden": true
+  },
+  "Zarina": {
+    "yaml_option": [
+      "Zarina_Kassir"
+    ],
+    "hidden": true
+  },
+  "Cheryl": {
+    "yaml_option": [
+      "Cheryl_Mason"
+    ],
+    "hidden": true
+  },
+  "Felix": {
+    "yaml_option": [
+      "Felix_Richter"
+    ],
+    "hidden": true
+  },
+  "Elodie": {
+    "yaml_option": [
+      "Elodie_Rakoto"
+    ],
+    "hidden": true
+  },
+  "Yun-Jin": {
+    "yaml_option": [
+      "Yun_Jin_Lee"
+    ],
+    "hidden": true
+  },
+  "Jill": {
+    "yaml_option": [
+      "Jill_Valentine"
+    ],
+    "hidden": true
+  },
+  "Leon": {
+    "yaml_option": [
+      "Leon_S_Kennedy"
+    ],
+    "hidden": true
+  },
+  "Mikaela": {
+    "yaml_option": [
+      "Mikaela_Reid"
+    ],
+    "hidden": true
+  },
+  "Jonah": {
+    "yaml_option": [
+      "Jonah_Vasquez"
+    ],
+    "hidden": true
+  },
+  "Yoichi": {
+    "yaml_option": [
+      "Yoichi_Asakawa"
+    ],
+    "hidden": true
+  },
+  "Haddie": {
+    "yaml_option": [
+      "Haddie_Kaur"
+    ],
+    "hidden": true
+  },
+  "Ada": {
+    "yaml_option": [
+      "Ada_Wong"
+    ],
+    "hidden": true
+  },
+  "Rebecca": {
+    "yaml_option": [
+      "Rebecca_Chambers"
+    ],
+    "hidden": true
+  },
+  "Vittorio": {
+    "yaml_option": [
+      "Vittorio_Toscano"
+    ],
+    "hidden": true
+  },
+  "Thalita": {
+    "yaml_option": [
+      "Thalita_Lyra"
+    ],
+    "hidden": true
+  },
+  "Renato": {
+    "yaml_option": [
+      "Renato_Lyra"
+    ],
+    "hidden": true
+  },
+  "Gabriel": {
+    "yaml_option": [
+      "Gabriel_Soma"
+    ],
+    "hidden": true
+  },
+  "Cage": {
+    "yaml_option": [
+      "Nicolas_Cage"
+    ],
+    "hidden": true
+  },
+  "Ripley": {
+    "yaml_option": [
+      "Ellen_Ripley"
+    ],
+    "hidden": true
+  },
+  "Alan": {
+    "yaml_option": [
+      "Alan_Wake"
+    ],
+    "hidden": true
+  },
+  "Sable": {
+    "yaml_option": [
+      "Sable_Ward"
+    ],
+    "hidden": true
+  },
+  "Aestri": {
+    "yaml_option": [
+      "Aestri_Yazar"
+    ],
+    "hidden": true
+  },
+  "Lara": {
+    "yaml_option": [
+      "Lara_Croft"
+    ],
+    "hidden": true
+  },
+  "Trevor": {
+    "yaml_option": [
+      "Trevor_Belmont"
+    ],
+    "hidden": true
+  },
+  "Taurie": {
+    "yaml_option": [
+      "Taurie_Cain"
+    ],
+    "hidden": true
+  },
+  "Rick": {
+    "yaml_option": [
+      "Rick_Grimes"
+    ],
+    "hidden": true
+  },
+  "Michonne": {
+    "yaml_option": [
+      "Michonne_Grimes"
+    ],
+    "hidden": true
+  },
+  "Orela": {
+    "yaml_option": [
+      "Orela_Rose"
+    ],
+    "hidden": true
+  },
+  "Vee": {
+    "yaml_option": [
+      "Vee_Boonyasak"
+    ],
+    "hidden": true
+  },
+  "Eleven": {
+    "yaml_option": [
+      "Eleven"
+    ],
+    "hidden": true
+  },
+  "Dustin": {
+    "yaml_option": [
+      "Dustin_Henderson"
+    ],
+    "hidden": true
+  },
+  "Kwon": {
+    "yaml_option": [
+      "Kwon_TaeYoung"
+    ],
+    "hidden": true
+  },
+  "Shane": {
+    "yaml_option": [
+      "Shane_Wiigwaas"
+    ],
+    "hidden": true
+  },
+  "Aurora": {
+    "yaml_option": [
+      "Aurora_Stardotter"
+    ],
+    "hidden": true
+  }
+}
