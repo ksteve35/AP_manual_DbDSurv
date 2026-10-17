@@ -2052,12 +2052,12 @@
         "requires": "|Cross-Examination|"
     },
     {
-        "name": "Victory - Aurora Stardotter",
+        "name": "Victory - Aurora_Stardotter",
         "category": [
             "Aurora",
             "Surv"
         ],
-        "requires": "|Aurora Stardotter|"
+        "requires": "|Aurora_Stardotter|"
     },
     {
         "name": "Victory - Boon Steadfast",
