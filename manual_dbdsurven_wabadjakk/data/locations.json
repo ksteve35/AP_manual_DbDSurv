@@ -914,16 +914,16 @@
             "Perk",
             "Mikaela"
         ],
-        "requires": "|Boon: Circle of Healing|",
-        "name": "Victory - Boon: Circle of Healing"
+        "requires": "|Boon Circle of Healing|",
+        "name": "Victory - Boon Circle of Healing"
     },
     {
         "category": [
             "Perk",
             "Mikaela"
         ],
-        "requires": "|Boon: Shadow Step|",
-        "name": "Victory - Boon: Shadow Step"
+        "requires": "|Boon Shadow Step|",
+        "name": "Victory - Boon Shadow Step"
     },
     {
         "category": [
@@ -955,8 +955,8 @@
             "Perk",
             "Jonah"
         ],
-        "requires": "|Boon: Exponential|",
-        "name": "Victory - Boon: Exponential"
+        "requires": "|Boon Exponential|",
+        "name": "Victory - Boon Exponential"
     },
     {
         "category": [
@@ -988,8 +988,8 @@
             "Perk",
             "Yoichi"
         ],
-        "requires": "|Boon: Dark Theory|",
-        "name": "Victory - Boon: Dark Theory"
+        "requires": "|Boon Dark Theory|",
+        "name": "Victory - Boon Dark Theory"
     },
     {
         "category": [
@@ -1277,8 +1277,8 @@
             "Perk",
             "Alan"
         ],
-        "requires": "|Boon: Illumination|",
-        "name": "Victory - Boon: Illumination"
+        "requires": "|Boon Illumination|",
+        "name": "Victory - Boon Illumination"
     },
     {
         "category": [
@@ -1401,8 +1401,8 @@
             "Perk",
             "Sable"
         ],
-        "requires": "|Invocation: Weaving Spiders|",
-        "name": "Victory - Invocation: Weaving Spiders"
+        "requires": "|Invocation Weaving Spiders|",
+        "name": "Victory - Invocation Weaving Spiders"
     },
     {
         "category": [
@@ -1586,7 +1586,7 @@
             "Missions"
         ],
         "requires": 
-"(|Boon: Circle of Healing| OR |Boon: Dark Theory| OR |Boon: Exponential| OR |Boon: Illumination| OR |Boon: Shadow Step| OR |Boon: Steadfast|)"
+"(|Boon Circle of Healing| OR |Boon Dark Theory| OR |Boon Exponential| OR |Boon Illumination| OR |Boon Shadow Step| OR |Boon Steadfast|)"
     },
     {
         "name": "Open a chest",
@@ -1767,12 +1767,12 @@
     "requires": "{SurvReq()}"
     },
     {
-        "name": "Victory - Invocation: Treacherous Crows",
+        "name": "Victory - Invocation Treacherous Crows",
         "category": [
             "Perk",
             "Taurie"
         ],
-        "requires": "|Invocation: Treacherous Crows|"
+        "requires": "|Invocation Treacherous Crows|"
     },
     {
         "name": "Victory - Taurie Cain",
@@ -2063,12 +2063,12 @@
         "requires": "|Aurora_Stardotter|"
     },
     {
-        "name": "Victory - Boon: Steadfast",
+        "name": "Victory - Boon Steadfast",
         "category": [
             "Aurora",
             "Perk"
         ],
-        "requires": "|Boon: Steadfast|"
+        "requires": "|Boon Steadfast|"
     },
     {
         "name": "Victory - Fruits of Your Labor",
