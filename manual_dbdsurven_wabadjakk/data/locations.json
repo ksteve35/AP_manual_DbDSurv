@@ -1586,7 +1586,8 @@
             "Missions"
         ],
         "requires": 
-"(|Boon Circle of Healing| OR |Boon Shadow Step| OR |Boon Exponential| OR |Boon Dark Theory| OR |Boon Illumination|)"
+"(|Boon: Circle of Healing| OR |Boon: Dark Theory| OR |Boon: Exponential| OR |Boon: Illumination| OR |Boon: Shadow Step| OR |Boon: Steadfast|)"
+
     },
     {
         "name": "Open a chest",
