@@ -1759,7 +1759,7 @@
         "requires": "|We'll Make it|"
     },
     {
-        "name": "(Seed Terminee) The entity is hungry",
+        "name": "Victory: The entity is hungry",
         "victory": true,
         "category": [
             "Victory"

@@ -25,24 +25,15 @@ from typing import Type, Any
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
-class SurvTotalPresent(Range):
-    """How many Survivors do you enabled in your multiworld."""
-    display_name = "Number of Survivors Present"
-    range_start = 1
-    range_end = 54
-    default = 10
-
 class SurvTotalRequired(Range):
-    """How many Survivors is required to unlock goal.
-    Need to be equal to or have less than SurvTotalPresent."""
-    display_name = "Win with Requiered Survivors"
+    """How many Survivors are required to escape to goal?"""
+    display_name = "Win with Required Survivors"
     range_start = 1
     range_end = 54
     default = 10
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
-    options["survivor_in_pool"] = SurvTotalPresent
     options["survivor_required"] = SurvTotalRequired
     return options
 
