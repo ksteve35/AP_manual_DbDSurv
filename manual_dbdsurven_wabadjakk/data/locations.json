@@ -2068,12 +2068,12 @@
         "requires": "|Boon Steadfast|"
     },
     {
-        "name": "Victory - Fruits of your Labor",
+        "name": "Victory - Fruits of Your Labor",
         "category": [
             "Aurora",
             "Perk"
         ],
-        "requires": "|Fruits of your Labor|"
+        "requires": "|Fruits of Your Labor|"
     },
     {
         "name": "Victory - Salvation's Cry",
