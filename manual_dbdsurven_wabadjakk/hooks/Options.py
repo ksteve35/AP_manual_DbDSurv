@@ -42,8 +42,8 @@ class SurvTotalRequired(Range):
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
-    options["surv_in_pool"] = SurvTotalPresent
-    options["surv_required"] = SurvTotalRequired
+    options["survivor_in_pool"] = SurvTotalPresent
+    options["survivor_required"] = SurvTotalRequired
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

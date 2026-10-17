@@ -16,9 +16,9 @@ def overfishedAnywhere(world: World, state: CollectionState, player: int):
     return False
 
 def SurvReq(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    surv_in_pool = get_option_value(multiworld, player, "surv_in_pool")
-    surv_required = get_option_value(multiworld, player, "surv_required")
-    return "|@Survivor:" + str(min(surv_in_pool, surv_required)) + "|"
+    survivor_in_pool = get_option_value(multiworld, player, "survivor_in_pool")
+    survivor_required = get_option_value(multiworld, player, "survivor_required")
+    return "|@Survivor:" + str(min(survivor_in_pool, survivor_required)) + "|"
 
 # You can also pass an argument to your function, like {function_name(15)}
 # Note that all arguments are strings, so you'll need to convert them to ints if you want to do math.
