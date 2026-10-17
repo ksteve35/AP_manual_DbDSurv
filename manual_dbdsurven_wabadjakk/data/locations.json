@@ -1577,7 +1577,8 @@
         "category": [
             "Missions"
         ],
-        "requires": []
+        "requires": [],
+        "_comment": "This is killer-dependent and probably needs to be changed in some way."
     },
     {
         "name": "Bless a totem",
