@@ -389,12 +389,12 @@
         "requires": "|Stake Out|"
     },
     {
-        "name": "Victory - Inspecteur Tapp",
+        "name": "Victory - Detective Tapp",
         "category": [
             "Surv",
             "Tapp"
         ],
-        "requires": "|Inspecteur Tapp|",
+        "requires": "|Detective Tapp|",
         "victory": false
     },
     {
