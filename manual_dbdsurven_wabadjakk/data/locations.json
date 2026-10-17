@@ -1628,7 +1628,8 @@
         "category": [
             "Missions"
         ],
-        "requires": "(|Deliverance| OR |Slippery Meat| AND |Up the Ante|)"
+        "requires": "(|Deliverance| OR |Slippery Meat| AND |Up the Ante|) AND {YamlEnabled(Hard_Perk_Requirements_For_Mission_Logic)}"
+
     },
     {
         "name": "Make the killer swing and miss you",
@@ -1642,7 +1643,8 @@
         "category": [
             "Missions"
         ],
-        "requires": "(|Decisive Strike| OR |Flip-flop| AND |Unbreakable| AND |No Mither| AND |Boil Over| OR |Flip-flop| AND |Power Struggle|"
+        "requires": "(|Decisive Strike| OR |Flip-flop| AND |Unbreakable| AND |No Mither| AND |Boil Over| OR |Flip-flop| AND |Power Struggle|) AND {YamlEnabled(Hard_Perk_Requirements_For_Mission_Logic)}"
+
     },
     {
         "name": "Victory - Dark Sense",

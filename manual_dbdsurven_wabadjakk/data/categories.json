@@ -4,6 +4,11 @@
       "Missions"
     ]
   },
+  "Hard Perk Requirements For Mission Logic": {
+    "yaml_option": [
+      "Hard_Perk_Requirements_For_Mission_Logic"
+    ]
+  },
   "Items": {
     "yaml_option": [
       "Items"
