@@ -914,16 +914,16 @@
             "Perk",
             "Mikaela"
         ],
-        "requires": "|Boon Circle of Healing|",
-        "name": "Victory - Boon Circle of Healing"
+        "requires": "|Boon: Circle of Healing|",
+        "name": "Victory - Boon: Circle of Healing"
     },
     {
         "category": [
             "Perk",
             "Mikaela"
         ],
-        "requires": "|Boon Shadow Step|",
-        "name": "Victory - Boon Shadow Step"
+        "requires": "|Boon: Shadow Step|",
+        "name": "Victory - Boon: Shadow Step"
     },
     {
         "category": [
@@ -955,8 +955,8 @@
             "Perk",
             "Jonah"
         ],
-        "requires": "|Boon Exponential|",
-        "name": "Victory - Boon Exponential"
+        "requires": "|Boon: Exponential|",
+        "name": "Victory - Boon: Exponential"
     },
     {
         "category": [
@@ -988,8 +988,8 @@
             "Perk",
             "Yoichi"
         ],
-        "requires": "|Boon Dark Theory|",
-        "name": "Victory - Boon Dark Theory"
+        "requires": "|Boon: Dark Theory|",
+        "name": "Victory - Boon: Dark Theory"
     },
     {
         "category": [
@@ -1277,8 +1277,8 @@
             "Perk",
             "Alan"
         ],
-        "requires": "|Boon Illumination|",
-        "name": "Victory - Boon Illumination"
+        "requires": "|Boon: Illumination|",
+        "name": "Victory - Boon: Illumination"
     },
     {
         "category": [
@@ -2062,12 +2062,12 @@
         "requires": "|Aurora_Stardotter|"
     },
     {
-        "name": "Victory - Boon Steadfast",
+        "name": "Victory - Boon: Steadfast",
         "category": [
             "Aurora",
             "Perk"
         ],
-        "requires": "|Boon Steadfast|"
+        "requires": "|Boon: Steadfast|"
     },
     {
         "name": "Victory - Fruits of Your Labor",

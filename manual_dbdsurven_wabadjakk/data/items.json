@@ -995,7 +995,7 @@
       "Perk",
       "Mikaela"
     ],
-    "name": "Boon Circle of Healing",
+    "name": "Boon: Circle of Healing",
     "progression": true
   },
   {
@@ -1004,7 +1004,7 @@
       "Perk",
       "Mikaela"
     ],
-    "name": "Boon Shadow Step",
+    "name": "Boon: Shadow Step",
     "progression": true
   },
   {
@@ -1040,7 +1040,7 @@
       "Perk",
       "Jonah"
     ],
-    "name": "Boon Exponential",
+    "name": "Boon: Exponential",
     "progression": true
   },
   {
@@ -1076,7 +1076,7 @@
       "Perk",
       "Yoichi"
     ],
-    "name": "Boon Dark Theory",
+    "name": "Boon: Dark Theory",
     "progression": true
   },
   {
@@ -1355,7 +1355,7 @@
       "Perk",
       "Alan"
     ],
-    "name": "Boon Illumination",
+    "name": "Boon: Illumination",
     "progression": true
   },
   {
@@ -2108,7 +2108,7 @@
   },
   {
     "count": 1,
-    "name": "Boon Steadfast",
+    "name": "Boon: Steadfast",
     "category": [
       "Aurora",
       "Perk"
