@@ -1490,7 +1490,7 @@
       "Perk",
       "Sable"
     ],
-    "name": "Invocation Weaving Spiders",
+    "name": "Invocation: Weaving Spiders",
     "progression": true
   },
   {
@@ -1778,7 +1778,7 @@
   },
   {
     "count": 1,
-    "name": "Invocation Treacherous Crows",
+    "name": "Invocation: Treacherous Crows",
     "category": [
       "Perk",
       "Taurie"

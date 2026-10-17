@@ -1401,8 +1401,8 @@
             "Perk",
             "Sable"
         ],
-        "requires": "|Invocation Weaving Spiders|",
-        "name": "Victory - Invocation Weaving Spiders"
+        "requires": "|Invocation: Weaving Spiders|",
+        "name": "Victory - Invocation: Weaving Spiders"
     },
     {
         "category": [
@@ -1587,7 +1587,6 @@
         ],
         "requires": 
 "(|Boon: Circle of Healing| OR |Boon: Dark Theory| OR |Boon: Exponential| OR |Boon: Illumination| OR |Boon: Shadow Step| OR |Boon: Steadfast|)"
-
     },
     {
         "name": "Open a chest",
@@ -1766,12 +1765,12 @@
     "requires": "{SurvReq()}"
     },
     {
-        "name": "Victory - Invocation Treacherous Crows",
+        "name": "Victory - Invocation: Treacherous Crows",
         "category": [
             "Perk",
             "Taurie"
         ],
-        "requires": "|Invocation Treacherous Crows|"
+        "requires": "|Invocation: Treacherous Crows|"
     },
     {
         "name": "Victory - Taurie Cain",
