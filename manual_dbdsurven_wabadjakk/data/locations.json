@@ -26,7 +26,7 @@
     {
         "name": "Victory - Dwight Fairfield",
         "category": [
-            "Surv",
+            "Survivor",
             "Dwight"
         ],
         "requires": "|Dwight Fairfield|",
@@ -35,7 +35,7 @@
     {
         "name": "Victory - Meg Thomas",
         "category": [
-            "Surv",
+            "Survivor",
             "Meg"
         ],
         "requires": "|Meg Thomas|",
@@ -68,7 +68,7 @@
     {
         "name": "Victory - Claudette Morel",
         "category": [
-            "Surv",
+            "Survivor",
             "Claudette"
         ],
         "requires": "|Claudette Morel|",
@@ -101,7 +101,7 @@
     {
         "name": "Victory  - Jake Park",
         "category": [
-            "Surv",
+            "Survivor",
             "Jake"
         ],
         "requires": "|Jake Park|",
@@ -134,7 +134,7 @@
     {
         "name": "Victory - Nea Karlsson",
         "category": [
-            "Surv",
+            "Survivor",
             "Nea"
         ],
         "requires": "|Nea Karlsson|",
@@ -169,7 +169,7 @@
     {
         "name": "Victory - William Overbeck",
         "category": [
-            "Surv",
+            "Survivor",
             "Bill"
         ],
         "requires": "|William Overbeck|",
@@ -202,7 +202,7 @@
     {
         "name": "Victory - David King",
         "category": [
-            "Surv",
+            "Survivor",
             "David"
         ],
         "requires": "|David King|",
@@ -235,7 +235,7 @@
     {
         "name": "Victory - Laurie Strode",
         "category": [
-            "Surv",
+            "Survivor",
             "Laurie"
         ],
         "requires": "|Laurie Strode|",
@@ -268,7 +268,7 @@
     {
         "name": "Victory - Ace Visconti",
         "category": [
-            "Surv",
+            "Survivor",
             "Ace"
         ],
         "requires": "|Ace Visconti|",
@@ -301,7 +301,7 @@
     {
         "name": "Victory - Feng Min",
         "category": [
-            "Surv",
+            "Survivor",
             "Feng"
         ],
         "requires": "|Feng Min|",
@@ -358,7 +358,7 @@
     {
         "name": "Victory - Quentin Smith",
         "category": [
-            "Surv",
+            "Survivor",
             "Quentin"
         ],
         "requires": "|Quentin Smith|",
@@ -391,7 +391,7 @@
     {
         "name": "Victory - Detective Tapp",
         "category": [
-            "Surv",
+            "Survivor",
             "Tapp"
         ],
         "requires": "|Detective Tapp|",
@@ -400,7 +400,7 @@
     {
         "name": "Victory - Kate Denson",
         "category": [
-            "Surv",
+            "Survivor",
             "Kate"
         ],
         "requires": "|Kate Denson|",
@@ -433,7 +433,7 @@
     {
         "name": "Victory - Adam Francis",
         "category": [
-            "Surv",
+            "Survivor",
             "Adam"
         ],
         "requires": "|Adam Francis|",
@@ -466,7 +466,7 @@
     {
         "name": "Victory - Jeff Johansen",
         "category": [
-            "Surv",
+            "Survivor",
             "Jeff"
         ],
         "requires": "|Jeff Johansen|",
@@ -499,7 +499,7 @@
     {
         "name": "Victory - Jane Romero",
         "category": [
-            "Surv",
+            "Survivor",
             "Jane"
         ],
         "requires": "|Jane Romero|",
@@ -532,7 +532,7 @@
     {
         "name": "Victory - Ashley J Williams",
         "category": [
-            "Surv",
+            "Survivor",
             "Ash"
         ],
         "requires": "|Ashley J Williams|",
@@ -565,7 +565,7 @@
     {
         "name": "Victory - Nancy Wheeler",
         "category": [
-            "Surv",
+            "Survivor",
             "Nancy"
         ],
         "requires": "|Nancy Wheeler|",
@@ -598,7 +598,7 @@
     {
         "name": "Victory - Steve Harrington",
         "category": [
-            "Surv",
+            "Survivor",
             "Steve"
         ],
         "requires": "|Steve Harrington|",
@@ -631,7 +631,7 @@
     {
         "name": "Victory - Yui Kimura",
         "category": [
-            "Surv",
+            "Survivor",
             "Yui"
         ],
         "requires": "|Yui Kimura|",
@@ -664,7 +664,7 @@
     {
         "name": "Victory - Zarina Kassir",
         "category": [
-            "Surv",
+            "Survivor",
             "Zarina"
         ],
         "requires": "|Zarina Kassir|",
@@ -697,7 +697,7 @@
     {
         "name": "Victory - Cheryl Mason",
         "category": [
-            "Surv",
+            "Survivor",
             "Cheryl"
         ],
         "requires": "|Cheryl Mason|",
@@ -730,7 +730,7 @@
     {
         "name": "Victory - Felix Richter",
         "category": [
-            "Surv",
+            "Survivor",
             "Felix"
         ],
         "requires": "|Felix Richter|",
@@ -763,7 +763,7 @@
     {
         "name": "Victory - Elodie Rakoto",
         "category": [
-            "Surv",
+            "Survivor",
             "Elodie"
         ],
         "requires": "|Elodie Rakoto|",
@@ -795,7 +795,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Yun-Jin"
         ],
         "requires": "|Yun-Jin Lee|",
@@ -836,7 +836,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Jill"
         ],
         "requires": "|Jill Valentine|",
@@ -861,7 +861,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Leon"
         ],
         "requires": "|Leon S Kennedy|",
@@ -894,7 +894,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Mikaela"
         ],
         "requires": "|Mikaela Reid|",
@@ -927,7 +927,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Jonah"
         ],
         "requires": "|Jonah Vasquez|",
@@ -960,7 +960,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Yoichi"
         ],
         "requires": "|Yoichi Asakawa|",
@@ -993,7 +993,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Haddie"
         ],
         "requires": "|Haddie Kaur|",
@@ -1026,7 +1026,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Ada"
         ],
         "requires": "|Ada Wong|",
@@ -1059,7 +1059,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Rebecca"
         ],
         "requires": "|Rebecca Chambers|",
@@ -1092,7 +1092,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Vittorio"
         ],
         "requires": "|Vittorio Toscano|",
@@ -1125,7 +1125,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Thalita"
         ],
         "requires": "|Thalita Lyra|",
@@ -1158,7 +1158,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Renato"
         ],
         "requires": "|Renato Lyra|",
@@ -1191,7 +1191,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Cage"
         ],
         "requires": "|Nicolas Cage|",
@@ -1224,7 +1224,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Ripley"
         ],
         "requires": "|Ellen Ripley|",
@@ -1257,7 +1257,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Alan"
         ],
         "requires": "|Alan Wake|",
@@ -1290,7 +1290,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Trevor"
         ],
         "requires": "|Trevor Belmont|",
@@ -1323,7 +1323,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Lara"
         ],
         "requires": "|Lara Croft|",
@@ -1356,7 +1356,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Aestri"
         ],
         "requires": "|Aestri Yazar|",
@@ -1389,7 +1389,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Sable"
         ],
         "requires": "|Sable Ward|",
@@ -1422,7 +1422,7 @@
     },
     {
         "category": [
-            "Surv",
+            "Survivor",
             "Gabriel"
         ],
         "requires": "|Gabriel Soma|",
@@ -1777,7 +1777,7 @@
     {
         "name": "Victory - Taurie Cain",
         "category": [
-            "Surv",
+            "Survivor",
             "Taurie"
         ],
         "requires": "|Taurie Cain|"
@@ -1785,7 +1785,7 @@
     {
         "name": "Victory - Orela Rose",
         "category": [
-            "Surv",
+            "Survivor",
             "Orela"
         ],
         "requires": "|Orela Rose|"
@@ -1834,7 +1834,7 @@
         "name": "Victory - Michonne Grimes",
         "category": [
             "Michonne",
-            "Surv"
+            "Survivor"
         ],
         "requires": "|Michonne Grimes|"
     },
@@ -1866,7 +1866,7 @@
         "name": "Victory - Rick Grimes",
         "category": [
             "Rick",
-            "Surv"
+            "Survivor"
         ],
         "requires": "|Rick Grimes|"
     },
@@ -1922,7 +1922,7 @@
         "name": "Victory - Vee Boonyasak",
         "category": [
             "Vee",
-            "Surv"
+            "Survivor"
         ],
         "requires": "|Vee Boonyasak|"
     },
@@ -1954,7 +1954,7 @@
         "name": "Victory - Eleven",
         "category": [
             "Eleven",
-            "Surv"
+            "Survivor"
         ],
         "requires": "|Eleven|"
     },
@@ -1986,7 +1986,7 @@
         "name": "Victory - Dustin Henderson",
         "category": [
             "Dustin",
-            "Surv"
+            "Survivor"
         ],
         "requires": "|Dustin Henderson|"
     },
@@ -2018,7 +2018,7 @@
         "name": "Victory - Kwon Tae-Young",
         "category": [
             "Kwon",
-            "Surv"
+            "Survivor"
         ],
         "requires": "|Kwon Tae-Young|"
     },
@@ -2026,7 +2026,7 @@
         "name": "Victory - Shane Wiigwaas",
         "category": [
             "Shane",
-            "Surv"
+            "Survivor"
         ],
         "requires": "|Shane Wiigwaas|"
     },
@@ -2058,7 +2058,7 @@
         "name": "Victory - Aurora_Stardotter",
         "category": [
             "Aurora",
-            "Surv"
+            "Survivor"
         ],
         "requires": "|Aurora_Stardotter|"
     },
