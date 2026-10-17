@@ -1,4 +1,34 @@
 {
+  "Missions": {
+    "yaml_option": [
+      "Missions"
+    ]
+  },
+  "Items": {
+    "yaml_option": [
+      "Items"
+    ]
+  },
+  "Add-ons": {
+    "yaml_option": [
+      "Add_ons"
+    ]
+  },
+  "Offerings": {
+    "yaml_option": [
+      "Offerings"
+    ]
+  },
+  "Perk": {
+    "yaml_option": [
+      "Perk"
+    ]
+  },
+  "Base Perk": {
+    "yaml_option": [
+      "Base_Perk"
+    ]
+  },
   "Dwight": {
     "yaml_option": [
       "Dwight_Fairfield"
@@ -322,35 +352,5 @@
       "Aurora_Stardotter"
     ],
     "hidden": true
-  },
-  "Missions": {
-    "yaml_option": [
-      "Missions"
-    ]
-  },
-  "Items": {
-    "yaml_option": [
-      "Items"
-    ]
-  },
-  "Add-ons": {
-    "yaml_option": [
-      "Add_ons"
-    ]
-  },
-  "Offerings": {
-    "yaml_option": [
-      "Offerings"
-    ]
-  },
-  "Perk": {
-    "yaml_option": [
-      "Perk"
-    ]
-  },
-  "Base Perk": {
-    "yaml_option": [
-      "Base_Perk"
-    ]
   }
 }
